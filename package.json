@@ -15,7 +15,7 @@
     "@types/react-dom": "18.2.4",
     "boxicons": "^2.1.4",
     "chart.js": "^4.3.0",
-    "eslint": "8.43.0",
+    "eslint": "8.49.0",
     "eslint-config-next": "^13.4.7",
     "highlight.js": "^11.8.0",
     "kofi-button": "^1.1.1",
